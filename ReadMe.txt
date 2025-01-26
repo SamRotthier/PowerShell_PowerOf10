@@ -1,3 +1,5 @@
+In this project I made my first powershell script.
+
 This programm will always give a value of 10 back.
 It is not equiped to handle zero or less.
 
